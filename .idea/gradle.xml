@@ -5,81 +5,81 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/admin-service" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/HB-microservice-master/admin-service" />
         <option name="gradleJvm" value="15" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/admin-service" />
+            <option value="$PROJECT_DIR$/HB-microservice-master/admin-service" />
           </set>
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/cliente-service" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/HB-microservice-master/cliente-service" />
         <option name="gradleJvm" value="15" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/cliente-service" />
+            <option value="$PROJECT_DIR$/HB-microservice-master/cliente-service" />
           </set>
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/config-server" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/HB-microservice-master/config-server" />
         <option name="gradleJvm" value="15" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/config-server" />
+            <option value="$PROJECT_DIR$/HB-microservice-master/config-server" />
           </set>
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/gateway-service" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/HB-microservice-master/gateway-service" />
         <option name="gradleJvm" value="15" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/gateway-service" />
+            <option value="$PROJECT_DIR$/HB-microservice-master/gateway-service" />
           </set>
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/membresia-service" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/HB-microservice-master/membresia-service" />
         <option name="gradleJvm" value="15" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/membresia-service" />
+            <option value="$PROJECT_DIR$/HB-microservice-master/membresia-service" />
           </set>
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/proveedor-service" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/HB-microservice-master/proveedor-service" />
         <option name="gradleJvm" value="15" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/proveedor-service" />
+            <option value="$PROJECT_DIR$/HB-microservice-master/proveedor-service" />
           </set>
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/registry-service" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/HB-microservice-master/registry-service" />
         <option name="gradleJvm" value="15" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/registry-service" />
+            <option value="$PROJECT_DIR$/HB-microservice-master/registry-service" />
           </set>
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/reserva-service" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/HB-microservice-master/reserva-service" />
         <option name="gradleJvm" value="15" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/reserva-service" />
+            <option value="$PROJECT_DIR$/HB-microservice-master/reserva-service" />
           </set>
         </option>
       </GradleProjectSettings>
